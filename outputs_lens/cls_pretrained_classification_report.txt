@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       axion     0.9738    0.7602    0.8539      2932
+         cdm     0.7546    0.9633    0.8463      2966
+      no_sub     0.9827    0.9250    0.9530      3012
+
+    accuracy                         0.8835      8910
+   macro avg     0.9037    0.8828    0.8844      8910
+weighted avg     0.9038    0.8835    0.8848      8910
